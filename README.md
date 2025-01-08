@@ -1,1 +1,1 @@
-Menggunakan mysql-connector-j-9.12 untuk koneksi database
+Menggunakan mysql-connector-j-9.12 dan phpmyadmin untuk koneksi database
